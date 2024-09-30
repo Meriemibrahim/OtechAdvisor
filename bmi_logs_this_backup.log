@@ -1,0 +1,346 @@
+[WARN] [2024-09-27 14:24:03] PHP CLI is disabled manually, plugin will omit all PHP CLI steps.
+[WARN] [2024-09-27 14:24:03] PHP CLI will not run due to user settings in plugin other options.
+[STEP] [2024-09-27 14:24:03] Initializing backup...
+[INFO] [2024-09-27 14:24:03] Backup & Migration version: 1.4.6
+[INFO] [2024-09-27 14:24:03] Site which will be backed up: http://localhost/otech
+[INFO] [2024-09-27 14:24:03] PHP Version: 8.0.30
+[INFO] [2024-09-27 14:24:03] WP Version: 6.6.2
+[INFO] [2024-09-27 14:24:03] MySQL Version: 10.4.32
+[INFO] [2024-09-27 14:24:03] MySQL Max Length: 1048576
+[INFO] [2024-09-27 14:24:03] Web server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
+[INFO] [2024-09-27 14:24:03] Max execution time (in seconds): 120
+[INFO] [2024-09-27 14:24:03] Memory limit (server): 512M
+[INFO] [2024-09-27 14:24:03] Memory limit (wp-config): 40M
+[INFO] [2024-09-27 14:24:03] Memory limit (wp-config admin): 512M
+[INFO] [2024-09-27 14:24:03] Max rows per query (this site): 2000
+[INFO] [2024-09-27 14:24:03] Checking if backup dir is writable...
+[INFO] [2024-09-27 14:24:03] Initializing custom error handler
+[SUCCESS] [2024-09-27 14:24:03] Yup it is writable...
+[STEP] [2024-09-27 14:24:03] Scanning files...
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\530.95ed248d03ed8624dedf.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\844.2cb54706990e89c6a4de.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\629.2e6323bd5900e24443ca.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\188.52bb43f2fc39f31bef94.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\574.3dfefc4d7c283ef02e53.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\815.cc102d9136543dd50d70.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\150.533b039df72a305626d0.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\events.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\466.0d83542cb27004808c2f.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\559.47054edb739c3c6a4a49.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\798.9c0e276b9a7e4c8b010b.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\761.ee61052e9deb5e10792a.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\316.e677171e696bc0829698.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\418.66ea70734eb9e0d6ad3f.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\36.1eba351f6ee9fbbaaf78.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\623.fd418db2832cb47ad8a5.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\95.9b58e560812076065644.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\274.717c716a87ab50d3b9d0.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\87.30b653d13de2ae64d050.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\142.35a89b8a21c3144c67c3.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\921.ea5565c86a4be1f7d88d.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\735.8f08a3d5ecc141604290.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\806.92b4f26af6a0d22a2655.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to path rules): C:\xampp\htdocs\otech\wp-content\backup-migration-config.php
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\68.88f643c8b4c9266a5fc7.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\321.439ec9923569e20e2dc8.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\421.8731543025e84f834ebe.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\897.c1365759444a96d0539f.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\597.f3840177a095b3bba275.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\760.948eafe55e2ef118455b.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\308.ef8a217fb01ce8a97536.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\main.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\uploads\2024\07\Presentation-professionnelle-projet-marketing-moderne-bleu-et-blanc-2.tmp
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\editor.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\uploads\2024\07\telechargement-10-1.tmp
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\admin\dashboard\static\bundle\main.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\sync.min.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\options.js.gz
+[WARN] [2024-09-27 14:24:09] Removing file from backup (due to exclude rules): C:\xampp\htdocs\otech\wp-content\themes\blocksy\static\bundle\customizer-controls.js.gz
+[INFO] [2024-09-27 14:24:09] Total size of excluded files: 577551 bytes
+[VERBOSE] [2024-09-27 14:24:09] Total size of excluded files (bytes): 577551
+[STEP] [2024-09-27 14:24:09] Checking free space, reserving...
+[INFO] [2024-09-27 14:24:09] Requires at least 468227384 bytes. [446.54 MB]
+[INFO] [2024-09-27 14:24:09] Disk free space function is disabled by hosting.
+[INFO] [2024-09-27 14:24:09] Using dummy file to check free space (it can take some time).
+[SUCCESS] [2024-09-27 14:24:17] Confirmed, there is more than enough space, checked: 468227384 bytes
+[INFO] [2024-09-27 14:24:17] Scanning done - found 18208 files...
+[SUCCESS] [2024-09-27 14:24:17] Backup initialized...
+[STEP] [2024-09-27 14:24:17] Initializing archiving system...
+[SUCCESS] [2024-09-27 14:24:17] Archive system initialized...
+[STEP] [2024-09-27 14:24:17] Preparing map of files...
+[SUCCESS] [2024-09-27 14:24:17] Files prepared.
+[INFO] [2024-09-27 14:24:17] Starting compression process...
+[STEP] [2024-09-27 14:24:17] Smart memory calculation...
+[INFO] [2024-09-27 14:24:17] There is 512 MBs of memory to use
+[INFO] [2024-09-27 14:24:17] WordPress memory limit: 512 MBs
+[SUCCESS] [2024-09-27 14:24:17] Setting the safe limit to 57 MB
+[INFO] [2024-09-27 14:24:17] ZipArchive is available this process should use ZipArchive
+[INFO] [2024-09-27 14:24:17] Legacy setting: Using user browser as middleware for full capabilities
+[INFO] [2024-09-27 14:24:17] Saving backup configuration for current session...
+[INFO] [2024-09-27 14:24:17] Sending confirmation to user browser to keep pinging the process.
+[SUCCESS] [2024-09-27 14:24:19] Background process initialized
+[STEP] [2024-09-27 14:24:19] Starting database backup exporter
+[VERBOSE] [2024-09-27 14:24:19] Database exporter started via WEB REQUESTS
+[STEP] [2024-09-27 14:24:19] Making database backup (using v3 engine, requires at least v1.2.2 to restore)
+[INFO] [2024-09-27 14:24:19] Iterating database...
+[INFO] [2024-09-27 14:24:19] Memory usage after initialization: 107.55 MB
+[INFO] [2024-09-27 14:24:19] Scan found 74 tables (14558 rows), estimated total size: 29.03 MB.
+[INFO] [2024-09-27 14:24:19] Memory usage after getting table names: 107.72 MB 
+[INFO] [2024-09-27 14:24:19] Getting table recipes...
+[INFO] [2024-09-27 14:24:19] Table recipes have been exported.
+[INFO] [2024-09-27 14:24:19] Memory usage after loading recipes: 107.77 MB 
+[INFO] [2024-09-27 14:24:19] Saving recipes...
+[INFO] [2024-09-27 14:24:19] Recipes saved.
+[INFO] [2024-09-27 14:24:19] Memory usage after recipe off-load: 107.74 MB
+[INFO] [2024-09-27 14:24:20] Exporting table data...
+[STEP] [2024-09-27 14:24:20] Getting data of table: wp_actionscheduler_actions (1/74, 0.19 MB)
+[INFO] [2024-09-27 14:24:20] Milestone of table wp_actionscheduler_actions: 123/123 rows (100.00%, 0.04654s)
+[SUCCESS] [2024-09-27 14:24:20] Table export for: wp_actionscheduler_actions finished
+[STEP] [2024-09-27 14:24:22] Getting data of table: wp_actionscheduler_claims (2/74, 0.03 MB)
+[INFO] [2024-09-27 14:24:22] Table wp_actionscheduler_claims is empty, saving only recipe.
+[STEP] [2024-09-27 14:24:22] Getting data of table: wp_actionscheduler_groups (3/74, 0.03 MB)
+[INFO] [2024-09-27 14:24:22] Milestone of table wp_actionscheduler_groups: 5/5 rows (100.00%, 0.00157s)
+[SUCCESS] [2024-09-27 14:24:22] Table export for: wp_actionscheduler_groups finished
+[STEP] [2024-09-27 14:24:25] Getting data of table: wp_actionscheduler_logs (4/74, 0.08 MB)
+[INFO] [2024-09-27 14:24:25] Milestone of table wp_actionscheduler_logs: 353/353 rows (100.00%, 0.02012s)
+[SUCCESS] [2024-09-27 14:24:25] Table export for: wp_actionscheduler_logs finished
+[STEP] [2024-09-27 14:24:28] Getting data of table: wp_cmplz_cookiebanners (5/74, 0.02 MB)
+[INFO] [2024-09-27 14:24:28] Milestone of table wp_cmplz_cookiebanners: 1/1 rows (100.00%, 0.00220s)
+[SUCCESS] [2024-09-27 14:24:28] Table export for: wp_cmplz_cookiebanners finished
+[STEP] [2024-09-27 14:24:30] Getting data of table: wp_cmplz_cookies (6/74, 0.05 MB)
+[INFO] [2024-09-27 14:24:30] Milestone of table wp_cmplz_cookies: 164/164 rows (100.00%, 0.01414s)
+[SUCCESS] [2024-09-27 14:24:30] Table export for: wp_cmplz_cookies finished
+[STEP] [2024-09-27 14:24:33] Getting data of table: wp_cmplz_dnsmpd (7/74, 0.02 MB)
+[INFO] [2024-09-27 14:24:33] Table wp_cmplz_dnsmpd is empty, saving only recipe.
+[STEP] [2024-09-27 14:24:33] Getting data of table: wp_cmplz_services (8/74, 0.02 MB)
+[INFO] [2024-09-27 14:24:33] Milestone of table wp_cmplz_services: 48/48 rows (100.00%, 0.00463s)
+[SUCCESS] [2024-09-27 14:24:33] Table export for: wp_cmplz_services finished
+[STEP] [2024-09-27 14:24:35] Getting data of table: wp_commentmeta (9/74, 0.05 MB)
+[INFO] [2024-09-27 14:24:35] Milestone of table wp_commentmeta: 2/2 rows (100.00%, 0.00275s)
+[SUCCESS] [2024-09-27 14:24:35] Table export for: wp_commentmeta finished
+[STEP] [2024-09-27 14:24:37] Getting data of table: wp_comments (10/74, 0.09 MB)
+[INFO] [2024-09-27 14:24:37] Milestone of table wp_comments: 7/7 rows (100.00%, 0.00248s)
+[SUCCESS] [2024-09-27 14:24:37] Table export for: wp_comments finished
+[STEP] [2024-09-27 14:24:40] Getting data of table: wp_duplicator_packages (11/74, 0.03 MB)
+[INFO] [2024-09-27 14:24:40] Milestone of table wp_duplicator_packages: 1/1 rows (100.00%, 0.00252s)
+[SUCCESS] [2024-09-27 14:24:40] Table export for: wp_duplicator_packages finished
+[STEP] [2024-09-27 14:24:42] Getting data of table: wp_e_events (12/74, 0.03 MB)
+[INFO] [2024-09-27 14:24:42] Table wp_e_events is empty, saving only recipe.
+[STEP] [2024-09-27 14:24:42] Getting data of table: wp_eb_form_settings (13/74, 0.03 MB)
+[INFO] [2024-09-27 14:24:42] Table wp_eb_form_settings is empty, saving only recipe.
+[STEP] [2024-09-27 14:24:42] Getting data of table: wp_links (14/74, 0.03 MB)
+[INFO] [2024-09-27 14:24:42] Table wp_links is empty, saving only recipe.
+[STEP] [2024-09-27 14:24:42] Getting data of table: wp_options (15/74, 3.42 MB)
+[INFO] [2024-09-27 14:24:42] Milestone of table wp_options: 464/735 rows (63.13%, 0.02879s)
+[INFO] [2024-09-27 14:24:46] Milestone of table wp_options: 736/736 rows (100.00%, 0.03815s)
+[SUCCESS] [2024-09-27 14:24:46] Table export for: wp_options finished
+[STEP] [2024-09-27 14:24:49] Getting data of table: wp_postmeta (16/74, 14.77 MB)
+[INFO] [2024-09-27 14:24:49] Milestone of table wp_postmeta: 813/3550 rows (22.90%, 0.10178s)
+[INFO] [2024-09-27 14:24:51] Milestone of table wp_postmeta: 977/3550 rows (27.52%, 0.17722s)
+[INFO] [2024-09-27 14:24:54] Milestone of table wp_postmeta: 1325/3550 rows (37.32%, 0.13747s)
+[INFO] [2024-09-27 14:24:57] Milestone of table wp_postmeta: 1784/3550 rows (50.25%, 0.15565s)
+[INFO] [2024-09-27 14:24:59] Milestone of table wp_postmeta: 2144/3550 rows (60.39%, 0.17194s)
+[INFO] [2024-09-27 14:25:02] Milestone of table wp_postmeta: 2471/3550 rows (69.61%, 0.15287s)
+[INFO] [2024-09-27 14:25:05] Milestone of table wp_postmeta: 2824/3550 rows (79.55%, 0.24355s)
+[INFO] [2024-09-27 14:25:07] Milestone of table wp_postmeta: 3422/3550 rows (96.39%, 0.23757s)
+[INFO] [2024-09-27 14:25:10] Milestone of table wp_postmeta: 3550/3550 rows (100.00%, 0.17234s)
+[SUCCESS] [2024-09-27 14:25:10] Table export for: wp_postmeta finished
+[STEP] [2024-09-27 14:25:13] Getting data of table: wp_posts (17/74, 5.63 MB)
+[INFO] [2024-09-27 14:25:13] Milestone of table wp_posts: 274/663 rows (41.33%, 0.12488s)
+[INFO] [2024-09-27 14:25:16] Milestone of table wp_posts: 496/663 rows (74.81%, 0.10070s)
+[INFO] [2024-09-27 14:25:18] Milestone of table wp_posts: 634/663 rows (95.63%, 0.08100s)
+[INFO] [2024-09-27 14:25:21] Milestone of table wp_posts: 663/663 rows (100.00%, 0.05732s)
+[SUCCESS] [2024-09-27 14:25:21] Table export for: wp_posts finished
+[STEP] [2024-09-27 14:25:23] Getting data of table: wp_rank_math_404_logs (18/74, 0.03 MB)
+[INFO] [2024-09-27 14:25:23] Milestone of table wp_rank_math_404_logs: 34/34 rows (100.00%, 0.00298s)
+[SUCCESS] [2024-09-27 14:25:23] Table export for: wp_rank_math_404_logs finished
+[STEP] [2024-09-27 14:25:26] Getting data of table: wp_rank_math_internal_links (19/74, 0.03 MB)
+[INFO] [2024-09-27 14:25:26] Milestone of table wp_rank_math_internal_links: 146/146 rows (100.00%, 0.00670s)
+[SUCCESS] [2024-09-27 14:25:26] Table export for: wp_rank_math_internal_links finished
+[STEP] [2024-09-27 14:25:29] Getting data of table: wp_rank_math_internal_meta (20/74, 0.02 MB)
+[INFO] [2024-09-27 14:25:29] Milestone of table wp_rank_math_internal_meta: 43/43 rows (100.00%, 0.00177s)
+[SUCCESS] [2024-09-27 14:25:29] Table export for: wp_rank_math_internal_meta finished
+[STEP] [2024-09-27 14:25:31] Getting data of table: wp_rank_math_redirections (21/74, 0.03 MB)
+[INFO] [2024-09-27 14:25:31] Table wp_rank_math_redirections is empty, saving only recipe.
+[STEP] [2024-09-27 14:25:31] Getting data of table: wp_rank_math_redirections_cache (22/74, 0.03 MB)
+[INFO] [2024-09-27 14:25:31] Table wp_rank_math_redirections_cache is empty, saving only recipe.
+[STEP] [2024-09-27 14:25:31] Getting data of table: wp_term_relationships (23/74, 0.03 MB)
+[INFO] [2024-09-27 14:25:31] Milestone of table wp_term_relationships: 211/211 rows (100.00%, 0.00342s)
+[SUCCESS] [2024-09-27 14:25:31] Table export for: wp_term_relationships finished
+[STEP] [2024-09-27 14:25:34] Getting data of table: wp_term_taxonomy (24/74, 0.05 MB)
+[INFO] [2024-09-27 14:25:34] Milestone of table wp_term_taxonomy: 35/35 rows (100.00%, 0.00379s)
+[SUCCESS] [2024-09-27 14:25:34] Table export for: wp_term_taxonomy finished
+[STEP] [2024-09-27 14:25:36] Getting data of table: wp_termmeta (25/74, 0.05 MB)
+[INFO] [2024-09-27 14:25:36] Milestone of table wp_termmeta: 33/33 rows (100.00%, 0.00257s)
+[SUCCESS] [2024-09-27 14:25:36] Table export for: wp_termmeta finished
+[STEP] [2024-09-27 14:25:39] Getting data of table: wp_terms (26/74, 0.05 MB)
+[INFO] [2024-09-27 14:25:39] Milestone of table wp_terms: 35/35 rows (100.00%, 0.00243s)
+[SUCCESS] [2024-09-27 14:25:39] Table export for: wp_terms finished
+[STEP] [2024-09-27 14:25:41] Getting data of table: wp_trp_dictionary_en_us_ar (27/74, 0.20 MB)
+[INFO] [2024-09-27 14:25:41] Milestone of table wp_trp_dictionary_en_us_ar: 417/417 rows (100.00%, 0.01779s)
+[SUCCESS] [2024-09-27 14:25:41] Table export for: wp_trp_dictionary_en_us_ar finished
+[STEP] [2024-09-27 14:25:44] Getting data of table: wp_trp_dictionary_en_us_fr_fr (28/74, 0.22 MB)
+[INFO] [2024-09-27 14:25:44] Milestone of table wp_trp_dictionary_en_us_fr_fr: 378/378 rows (100.00%, 0.01570s)
+[SUCCESS] [2024-09-27 14:25:44] Table export for: wp_trp_dictionary_en_us_fr_fr finished
+[STEP] [2024-09-27 14:25:47] Getting data of table: wp_trp_dictionary_fr_fr_en_us (29/74, 0.08 MB)
+[INFO] [2024-09-27 14:25:47] Milestone of table wp_trp_dictionary_fr_fr_en_us: 96/96 rows (100.00%, 0.00585s)
+[SUCCESS] [2024-09-27 14:25:47] Table export for: wp_trp_dictionary_fr_fr_en_us finished
+[STEP] [2024-09-27 14:25:50] Getting data of table: wp_trp_gettext_ar (30/74, 0.34 MB)
+[INFO] [2024-09-27 14:25:50] Milestone of table wp_trp_gettext_ar: 1282/1282 rows (100.00%, 0.07100s)
+[SUCCESS] [2024-09-27 14:25:50] Table export for: wp_trp_gettext_ar finished
+[STEP] [2024-09-27 14:25:52] Getting data of table: wp_trp_gettext_en_us (31/74, 0.38 MB)
+[INFO] [2024-09-27 14:25:52] Milestone of table wp_trp_gettext_en_us: 1801/1801 rows (100.00%, 0.05799s)
+[SUCCESS] [2024-09-27 14:25:52] Table export for: wp_trp_gettext_en_us finished
+[STEP] [2024-09-27 14:25:55] Getting data of table: wp_trp_gettext_fr_fr (32/74, 0.30 MB)
+[INFO] [2024-09-27 14:25:55] Milestone of table wp_trp_gettext_fr_fr: 1238/1238 rows (100.00%, 0.04668s)
+[SUCCESS] [2024-09-27 14:25:55] Table export for: wp_trp_gettext_fr_fr finished
+[STEP] [2024-09-27 14:25:57] Getting data of table: wp_trp_gettext_original_meta (33/74, 0.06 MB)
+[INFO] [2024-09-27 14:25:57] Table wp_trp_gettext_original_meta is empty, saving only recipe.
+[STEP] [2024-09-27 14:25:57] Getting data of table: wp_trp_gettext_original_strings (34/74, 0.25 MB)
+[INFO] [2024-09-27 14:25:57] Milestone of table wp_trp_gettext_original_strings: 1742/1742 rows (100.00%, 0.06596s)
+[SUCCESS] [2024-09-27 14:25:57] Table export for: wp_trp_gettext_original_strings finished
+[STEP] [2024-09-27 14:26:00] Getting data of table: wp_trp_original_meta (35/74, 0.06 MB)
+[INFO] [2024-09-27 14:26:00] Milestone of table wp_trp_original_meta: 167/167 rows (100.00%, 0.00514s)
+[SUCCESS] [2024-09-27 14:26:00] Table export for: wp_trp_original_meta finished
+[STEP] [2024-09-27 14:26:02] Getting data of table: wp_trp_original_strings (36/74, 0.17 MB)
+[INFO] [2024-09-27 14:26:02] Milestone of table wp_trp_original_strings: 603/603 rows (100.00%, 0.02054s)
+[SUCCESS] [2024-09-27 14:26:02] Table export for: wp_trp_original_strings finished
+[STEP] [2024-09-27 14:26:05] Getting data of table: wp_usermeta (37/74, 0.05 MB)
+[INFO] [2024-09-27 14:26:05] Milestone of table wp_usermeta: 116/116 rows (100.00%, 0.00484s)
+[SUCCESS] [2024-09-27 14:26:05] Table export for: wp_usermeta finished
+[STEP] [2024-09-27 14:26:07] Getting data of table: wp_users (38/74, 0.06 MB)
+[INFO] [2024-09-27 14:26:07] Milestone of table wp_users: 2/2 rows (100.00%, 0.00257s)
+[SUCCESS] [2024-09-27 14:26:07] Table export for: wp_users finished
+[STEP] [2024-09-27 14:26:10] Getting data of table: wp_wc_comments_subscription (39/74, 0.08 MB)
+[INFO] [2024-09-27 14:26:10] Milestone of table wp_wc_comments_subscription: 1/1 rows (100.00%, 0.00226s)
+[SUCCESS] [2024-09-27 14:26:10] Table export for: wp_wc_comments_subscription finished
+[STEP] [2024-09-27 14:26:12] Getting data of table: wp_wc_feedback_forms (40/74, 0.05 MB)
+[INFO] [2024-09-27 14:26:12] Table wp_wc_feedback_forms is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:12] Getting data of table: wp_wc_follow_users (41/74, 0.14 MB)
+[INFO] [2024-09-27 14:26:12] Table wp_wc_follow_users is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:12] Getting data of table: wp_wc_phrases (42/74, 0.03 MB)
+[INFO] [2024-09-27 14:26:12] Table wp_wc_phrases is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:12] Getting data of table: wp_wc_users_rated (43/74, 0.05 MB)
+[INFO] [2024-09-27 14:26:12] Table wp_wc_users_rated is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:12] Getting data of table: wp_wc_users_voted (44/74, 0.09 MB)
+[INFO] [2024-09-27 14:26:12] Milestone of table wp_wc_users_voted: 1/1 rows (100.00%, 0.00149s)
+[SUCCESS] [2024-09-27 14:26:12] Table export for: wp_wc_users_voted finished
+[STEP] [2024-09-27 14:26:15] Getting data of table: wp_wfblockediplog (45/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:15] Table wp_wfblockediplog is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:15] Getting data of table: wp_wfblocks7 (46/74, 0.06 MB)
+[INFO] [2024-09-27 14:26:15] Milestone of table wp_wfblocks7: 1/1 rows (100.00%, 0.00184s)
+[SUCCESS] [2024-09-27 14:26:15] Table export for: wp_wfblocks7 finished
+[STEP] [2024-09-27 14:26:17] Getting data of table: wp_wfconfig (47/74, 0.48 MB)
+[INFO] [2024-09-27 14:26:17] Milestone of table wp_wfconfig: 270/270 rows (100.00%, 0.02807s)
+[SUCCESS] [2024-09-27 14:26:17] Table export for: wp_wfconfig finished
+[STEP] [2024-09-27 14:26:20] Getting data of table: wp_wfcrawlers (48/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:20] Table wp_wfcrawlers is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:20] Getting data of table: wp_wffilechanges (49/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:20] Table wp_wffilechanges is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:20] Getting data of table: wp_wffilemods (50/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:20] Table wp_wffilemods is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:20] Getting data of table: wp_wfhits (51/74, 0.06 MB)
+[INFO] [2024-09-27 14:26:20] Milestone of table wp_wfhits: 10/10 rows (100.00%, 0.00239s)
+[SUCCESS] [2024-09-27 14:26:20] Table export for: wp_wfhits finished
+[STEP] [2024-09-27 14:26:22] Getting data of table: wp_wfhoover (52/74, 0.03 MB)
+[INFO] [2024-09-27 14:26:22] Table wp_wfhoover is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:22] Getting data of table: wp_wfissues (53/74, 0.08 MB)
+[INFO] [2024-09-27 14:26:22] Milestone of table wp_wfissues: 2/2 rows (100.00%, 0.00192s)
+[SUCCESS] [2024-09-27 14:26:22] Table export for: wp_wfissues finished
+[STEP] [2024-09-27 14:26:25] Getting data of table: wp_wfknownfilelist (54/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:25] Table wp_wfknownfilelist is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:25] Getting data of table: wp_wflivetraffichuman (55/74, 0.03 MB)
+[INFO] [2024-09-27 14:26:25] Table wp_wflivetraffichuman is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:25] Getting data of table: wp_wflocs (56/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:25] Milestone of table wp_wflocs: 1/1 rows (100.00%, 0.00130s)
+[SUCCESS] [2024-09-27 14:26:25] Table export for: wp_wflocs finished
+[STEP] [2024-09-27 14:26:27] Getting data of table: wp_wflogins (57/74, 0.05 MB)
+[INFO] [2024-09-27 14:26:27] Milestone of table wp_wflogins: 7/7 rows (100.00%, 0.00241s)
+[SUCCESS] [2024-09-27 14:26:27] Table export for: wp_wflogins finished
+[STEP] [2024-09-27 14:26:30] Getting data of table: wp_wfls_2fa_secrets (58/74, 0.03 MB)
+[INFO] [2024-09-27 14:26:30] Milestone of table wp_wfls_2fa_secrets: 1/1 rows (100.00%, 0.00196s)
+[SUCCESS] [2024-09-27 14:26:30] Table export for: wp_wfls_2fa_secrets finished
+[STEP] [2024-09-27 14:26:32] Getting data of table: wp_wfls_role_counts (59/74, 0.00 MB)
+[INFO] [2024-09-27 14:26:32] Table wp_wfls_role_counts is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:32] Getting data of table: wp_wfls_settings (60/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:32] Milestone of table wp_wfls_settings: 37/37 rows (100.00%, 0.00258s)
+[SUCCESS] [2024-09-27 14:26:32] Table export for: wp_wfls_settings finished
+[STEP] [2024-09-27 14:26:34] Getting data of table: wp_wfnotifications (61/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:34] Milestone of table wp_wfnotifications: 3/3 rows (100.00%, 0.00220s)
+[SUCCESS] [2024-09-27 14:26:34] Table export for: wp_wfnotifications finished
+[STEP] [2024-09-27 14:26:37] Getting data of table: wp_wfpendingissues (62/74, 0.08 MB)
+[INFO] [2024-09-27 14:26:37] Table wp_wfpendingissues is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:37] Getting data of table: wp_wfreversecache (63/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:37] Milestone of table wp_wfreversecache: 1/1 rows (100.00%, 0.00117s)
+[SUCCESS] [2024-09-27 14:26:37] Table export for: wp_wfreversecache finished
+[STEP] [2024-09-27 14:26:39] Getting data of table: wp_wfsecurityevents (64/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:39] Table wp_wfsecurityevents is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:39] Getting data of table: wp_wfsnipcache (65/74, 0.06 MB)
+[INFO] [2024-09-27 14:26:39] Table wp_wfsnipcache is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:39] Getting data of table: wp_wfstatus (66/74, 0.05 MB)
+[INFO] [2024-09-27 14:26:39] Milestone of table wp_wfstatus: 167/167 rows (100.00%, 0.00886s)
+[SUCCESS] [2024-09-27 14:26:39] Table export for: wp_wfstatus finished
+[STEP] [2024-09-27 14:26:42] Getting data of table: wp_wftrafficrates (67/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:42] Table wp_wftrafficrates is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:42] Getting data of table: wp_wfwaffailures (68/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:42] Table wp_wfwaffailures is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:42] Getting data of table: wp_wpforms_logs (69/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:42] Table wp_wpforms_logs is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:42] Getting data of table: wp_wpforms_payment_meta (70/74, 0.06 MB)
+[INFO] [2024-09-27 14:26:42] Table wp_wpforms_payment_meta is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:42] Getting data of table: wp_wpforms_payments (71/74, 0.16 MB)
+[INFO] [2024-09-27 14:26:42] Table wp_wpforms_payments is empty, saving only recipe.
+[STEP] [2024-09-27 14:26:42] Getting data of table: wp_wpforms_tasks_meta (72/74, 0.05 MB)
+[INFO] [2024-09-27 14:26:42] Milestone of table wp_wpforms_tasks_meta: 12/12 rows (100.00%, 0.00211s)
+[SUCCESS] [2024-09-27 14:26:42] Table export for: wp_wpforms_tasks_meta finished
+[STEP] [2024-09-27 14:26:44] Getting data of table: wp_wpmailsmtp_debug_events (73/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:44] Milestone of table wp_wpmailsmtp_debug_events: 12/12 rows (100.00%, 0.00202s)
+[SUCCESS] [2024-09-27 14:26:44] Table export for: wp_wpmailsmtp_debug_events finished
+[STEP] [2024-09-27 14:26:48] Getting data of table: wp_wpmailsmtp_tasks_meta (74/74, 0.02 MB)
+[INFO] [2024-09-27 14:26:48] Milestone of table wp_wpmailsmtp_tasks_meta: 1/1 rows (100.00%, 0.00161s)
+[SUCCESS] [2024-09-27 14:26:48] Table export for: wp_wpmailsmtp_tasks_meta finished
+[INFO] [2024-09-27 14:26:51] Table data exported.
+[INFO] [2024-09-27 14:26:51] Memory usage after data export: 107.72 MB
+[SUCCESS] [2024-09-27 14:26:51] Database backup finished
+[STEP] [2024-09-27 14:26:53] Making batches for each process...
+[INFO] [2024-09-27 14:26:53] Reading list file...
+[INFO] [2024-09-27 14:26:53] Each batch will contain up to 4000 files.
+[INFO] [2024-09-27 14:26:53] Large files takes more time, you will be notified about those.
+[SUCCESS] [2024-09-27 14:26:57] Batches completed...
+[STEP] [2024-09-27 14:26:57] Making archive...
+[INFO] [2024-09-27 14:26:59] Using ZipArchive extension for this backup process.
+[STEP] [2024-09-27 14:26:59] Adding database SQL file(s) to the backup file.
+[SUCCESS] [2024-09-27 14:27:00] Database added to the backup file.
+[STEP] [2024-09-27 14:27:00] Performing site files backup...
+[INFO] [2024-09-27 14:27:02] Adding: 4000 files... [Size: 9.32 MB]
+[SUCCESS] [2024-09-27 14:28:09] Milestone: 4000/18207 [7 batches left]
+[VERBOSE] [2024-09-27 14:28:09] Backup file size: 6.47 MB
+[VERBOSE] [2024-09-27 14:28:09] Time since last batch: 230 seconds.
+[INFO] [2024-09-27 14:28:11] Adding: 4000 files... [Size: 33.47 MB]
+[SUCCESS] [2024-09-27 14:29:44] Milestone: 8000/18206 [6 batches left]
+[VERBOSE] [2024-09-27 14:29:44] Backup file size: 18.12 MB
+[VERBOSE] [2024-09-27 14:29:44] Time since last batch: 95 seconds.
+[INFO] [2024-09-27 14:29:47] Adding: 4000 files... [Size: 3.62 MB]
+[SUCCESS] [2024-09-27 14:30:36] Milestone: 12000/18205 [5 batches left]
+[VERBOSE] [2024-09-27 14:30:36] Backup file size: 20.87 MB
+[VERBOSE] [2024-09-27 14:30:36] Time since last batch: 52 seconds.
+[INFO] [2024-09-27 14:30:39] Adding: 4000 files... [Size: 1.3 MB]
+[SUCCESS] [2024-09-27 14:31:14] Milestone: 16000/18204 [4 batches left]
+[VERBOSE] [2024-09-27 14:31:14] Backup file size: 22.62 MB
+[VERBOSE] [2024-09-27 14:31:14] Time since last batch: 38 seconds.
+[INFO] [2024-09-27 14:31:17] Adding: 1855 files... [Size: 96.14 MB]
+[WARN] [2024-09-27 14:31:17] Current batch is quite large, it may take some time...
+[SUCCESS] [2024-09-27 14:32:31] Milestone: 17855/18203 [3 batches left]
+[VERBOSE] [2024-09-27 14:32:31] Backup file size: 60.73 MB
+[VERBOSE] [2024-09-27 14:32:31] Time since last batch: 77 seconds.
+[INFO] [2024-09-27 14:32:33] Adding: 313 files... [Size: 96.12 MB]
+[WARN] [2024-09-27 14:32:33] Current batch is quite large, it may take some time...
+[SUCCESS] [2024-09-27 14:32:57] Milestone: 18168/18202 [2 batches left]
+[VERBOSE] [2024-09-27 14:32:57] Backup file size: 91.51 MB
+[VERBOSE] [2024-09-27 14:32:57] Time since last batch: 26 seconds.
+[INFO] [2024-09-27 14:32:59] Adding: 40 files... [Size: 50.04 MB]
+[SUCCESS] [2024-09-27 14:33:13] Milestone: 18208/18201 [1 batches left]
+[VERBOSE] [2024-09-27 14:33:13] Backup file size: 106.58 MB
+[VERBOSE] [2024-09-27 14:33:13] Time since last batch: 16 seconds.
+[STEP] [2024-09-27 14:33:13] Adding final files to this batch...
+[INFO] [2024-09-27 14:33:13] Adding manifest as addition...

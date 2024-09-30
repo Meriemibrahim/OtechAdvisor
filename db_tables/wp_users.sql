@@ -1,0 +1,7 @@
+/* CUSTOM VARS START */
+/* REAL_TABLE_NAME: `wp_users`; */
+/* PRE_TABLE_NAME: `1727447057_wp_users`; */
+/* CUSTOM VARS END */
+
+CREATE TABLE IF NOT EXISTS `1727447057_wp_users` ( `ID` bigint(20) unsigned NOT NULL AUTO_INCREMENT, `user_login` varchar(60) NOT NULL DEFAULT '', `user_pass` varchar(255) NOT NULL DEFAULT '', `user_nicename` varchar(50) NOT NULL DEFAULT '', `user_email` varchar(100) NOT NULL DEFAULT '', `user_url` varchar(100) NOT NULL DEFAULT '', `user_registered` datetime NOT NULL DEFAULT '0000-00-00 00:00:00', `user_activation_key` varchar(255) NOT NULL DEFAULT '', `user_status` int(11) NOT NULL DEFAULT 0, `display_name` varchar(250) NOT NULL DEFAULT '', PRIMARY KEY (`ID`), KEY `user_login_key` (`user_login`), KEY `user_nicename` (`user_nicename`), KEY `user_email` (`user_email`)) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+INSERT INTO `1727447057_wp_users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`, `user_url`, `user_registered`, `user_activation_key`, `user_status`, `display_name`) VALUES (1,'otechadvisor','$P$B6lHE5w6UqdIdF86lA0N.d1DidX8gJ/','otechadvisor','meriem2001ibrahim@gmail.com','https://localhost/otech','2024-07-06 13:35:36','',0,'otechadvisor'),(3,'otechadvisorblog','$P$BB1GuNEKoM15jOWCn5bgF3J0Mo1/mA0','otechadvisorblog','meriem.ibrahim@esprit.tn','','2024-08-07 09:34:13','',0,'otechadvisor blog');
